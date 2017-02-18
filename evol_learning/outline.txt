@@ -21,9 +21,12 @@ total random motion (pick random points)
 
 
 Tasks 
-	Define permutations of chromosomes
+	~Define permutations of chromosomes
 	implement different strategies
-	implement evol algorithm (inspyred)	
-	Determine objective/fitness function
-	Implement multiprocessing
+	~implement evol algorithm (inspyred)	
+	~Determine objective/fitness function
+	Implement multiprocessing - EXAMPLE DONE
+
+
+ENEMY_VECTOR: [fire_rate, speed]
 	

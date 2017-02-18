@@ -17,7 +17,7 @@ import itertools
 
 #generator function. creates a list of num_Vertices tubles where each coord is in (-1,1)
 def generate_polygon(random,args):
-    size=args.get('num_vertices',6)     #by default, uses hexagon
+    size=args.get('num_vertices',6)     #6 numbers => 3 points
     return [(random.uniform(-1,1),random.uniform(-1,1)) for i in range(size)]
 
 #create line segments of adjacent tuples in p. the sides
