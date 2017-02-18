@@ -1,0 +1,29 @@
+chromosomes:
+fire rate:
+aggression
+health
+speed
+likelihood to dodge
+shot speed
+num_enemies
+curvature
+spawn new enemies
+
+Objective Function: f(Time Survived, health taken off player, recip of change in player score?) 
+
+
+Patterns:
+dodge and get shot
+circle
+Move in square
+follow player
+total random motion (pick random points)
+
+
+Tasks 
+	Define permutations of chromosomes
+	implement different strategies
+	implement evol algorithm (inspyred)	
+	Determine objective/fitness function
+	Implement multiprocessing
+	
